@@ -2,8 +2,8 @@
 
 ### Réalisation d'un jeux de carte en ligne dans un but ludique et pédagogique.
 
-![alt text](https://i.postimg.cc/NG4WW2Rd/img1.jpg)
-![alt text](https://i.postimg.cc/fy2qkXKZ/img2.jpg)
+![alt text](https://i.postimg.cc/NfCQTBvD/img1.jpg)
+![alt text](https://i.postimg.cc/ZqMfFsK1/img2.jpg)
 
 #### Une Application mobile a été également développer pour avoir une meilleur expérience de jeux:
 
