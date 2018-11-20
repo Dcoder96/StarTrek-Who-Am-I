@@ -1,28 +1,33 @@
-# StarTrekWhoAmI
+# Projet StarTrekWhoAmI:  Apprenons en plus sur notre systeme solaire!
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
+### Réalisation d'un jeux de carte en ligne dans un but ludique et pédagogique.
 
-## Development server
+![alt text](https://i.postimg.cc/NG4WW2Rd/img1.jpg)
+![alt text](https://i.postimg.cc/fy2qkXKZ/img2.jpg)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+#### Une Application mobile a été également développer pour avoir une meilleur expérience de jeux:
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+[Voir le repos de l'application mobile ](https://github.com/Dcoder96/StarTrek-Who-Am-I-App)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+## Mission:
 
-## Running unit tests
+- Interagir avec l’API de la NASA.
+- Exploiter les données fournies et réaliser une application web avec le framework Angular
+ 
+### Prérequis
+* [NodeJS](https://nodejs.org/)
+* [Angular 2+](https://angular.io/)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Installation
 
-## Running end-to-end tests
+```bash
+git clone https://github.com/Dcoder96/StarTrek-Who-Am-I.git
+cd StarTrek-Who-Am-I
+npm i
+```
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+### Lancement
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# StarTrek-Who_Am-I
+`ng serve -o`
